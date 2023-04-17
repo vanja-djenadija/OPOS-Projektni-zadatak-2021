@@ -1,0 +1,20 @@
+﻿2 GraphicalUserInterfaceApp
+
+
+winexe
+C#
+.cs
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\2 GraphicalUserInterfaceApp\obj\Release\net6.0-windows\
+_2_GraphicalUserInterfaceApp
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\2 GraphicalUserInterfaceApp\App.xaml
+4338644365
+1382351464
+6765811460
+2141152759195
+CreateNewTaskWindow.xaml;MainWindow.xaml;TaskProgressBar.xaml;TasksWindow.xaml;
+
+False
+

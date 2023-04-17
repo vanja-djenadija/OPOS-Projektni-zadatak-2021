@@ -1,0 +1,26 @@
+{
+  "ProgressBarPercentage": 0,
+  "Id": "Task 1",
+  "Terminated": false,
+  "Paused": false,
+  "Started": false,
+  "Priority": 3,
+  "Deadline": "2023-07-11T19:19:59",
+  "Resources": [
+    {
+      "Path": ".\\flowers.jpg",
+      "_resource": null,
+      "Task": null,
+      "Taken": false
+    }
+  ],
+  "NumberOfCores": 4,
+  "MaxExecutionTime": 1000000000000,
+  "Stopwatch": {
+    "IsRunning": false,
+    "Elapsed": "00:00:00",
+    "ElapsedMilliseconds": 0,
+    "ElapsedTicks": 0
+  },
+  "DateTimeFinished": "0001-01-01T00:00:00"
+}

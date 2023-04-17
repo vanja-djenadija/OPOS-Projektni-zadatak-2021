@@ -1,0 +1,629 @@
+{
+  "$type": "MyTaskScheduler.TaskScheduler, TaskScheduler",
+  "TasksWrapper": {
+    "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.MyTask, TaskScheduler]], System.Collections",
+    "$values": [
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.16129032258064516,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 1",
+        "Terminated": false,
+        "Paused": true,
+        "Started": true,
+        "Priority": 3,
+        "Deadline": "2022-10-13T10:38:10",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00.7392641",
+          "ElapsedMilliseconds": 739,
+          "ElapsedTicks": 7392641
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      },
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.16129032258064516,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 1",
+        "Terminated": false,
+        "Paused": true,
+        "Started": true,
+        "Priority": 3,
+        "Deadline": "2022-10-13T10:38:10",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00.7392641",
+          "ElapsedMilliseconds": 739,
+          "ElapsedTicks": 7392641
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      },
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.16129032258064516,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 1",
+        "Terminated": false,
+        "Paused": true,
+        "Started": true,
+        "Priority": 3,
+        "Deadline": "2022-10-13T10:38:10",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00.7392641",
+          "ElapsedMilliseconds": 739,
+          "ElapsedTicks": 7392641
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      },
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.16129032258064516,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 1",
+        "Terminated": false,
+        "Paused": true,
+        "Started": true,
+        "Priority": 3,
+        "Deadline": "2022-10-13T10:38:10",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00.7392641",
+          "ElapsedMilliseconds": 739,
+          "ElapsedTicks": 7392641
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      },
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.16129032258064516,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 1",
+        "Terminated": false,
+        "Paused": true,
+        "Started": true,
+        "Priority": 3,
+        "Deadline": "2022-10-13T10:38:10",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00.7392641",
+          "ElapsedMilliseconds": 739,
+          "ElapsedTicks": 7392641
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      },
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.16129032258064516,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 1",
+        "Terminated": false,
+        "Paused": true,
+        "Started": true,
+        "Priority": 3,
+        "Deadline": "2022-10-13T10:38:10",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00.7392641",
+          "ElapsedMilliseconds": 739,
+          "ElapsedTicks": 7392641
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      },
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.16129032258064516,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 1",
+        "Terminated": false,
+        "Paused": true,
+        "Started": true,
+        "Priority": 3,
+        "Deadline": "2022-10-13T10:38:10",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00.7392641",
+          "ElapsedMilliseconds": 739,
+          "ElapsedTicks": 7392641
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      },
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.16129032258064516,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 1",
+        "Terminated": false,
+        "Paused": true,
+        "Started": true,
+        "Priority": 3,
+        "Deadline": "2022-10-13T10:38:10",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00.7392641",
+          "ElapsedMilliseconds": 739,
+          "ElapsedTicks": 7392641
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      },
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.16129032258064516,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 1",
+        "Terminated": false,
+        "Paused": true,
+        "Started": true,
+        "Priority": 3,
+        "Deadline": "2022-10-13T10:38:10",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00.7392641",
+          "ElapsedMilliseconds": 739,
+          "ElapsedTicks": 7392641
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      },
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.16129032258064516,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 1",
+        "Terminated": false,
+        "Paused": true,
+        "Started": true,
+        "Priority": 3,
+        "Deadline": "2022-10-13T10:38:10",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00.7392641",
+          "ElapsedMilliseconds": 739,
+          "ElapsedTicks": 7392641
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      },
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.16129032258064516,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 1",
+        "Terminated": false,
+        "Paused": true,
+        "Started": true,
+        "Priority": 3,
+        "Deadline": "2022-10-13T10:38:10",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00.7392641",
+          "ElapsedMilliseconds": 739,
+          "ElapsedTicks": 7392641
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      },
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.16129032258064516,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 1",
+        "Terminated": false,
+        "Paused": true,
+        "Started": true,
+        "Priority": 3,
+        "Deadline": "2022-10-13T10:38:10",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00.7392641",
+          "ElapsedMilliseconds": 739,
+          "ElapsedTicks": 7392641
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      },
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.16129032258064516,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 1",
+        "Terminated": false,
+        "Paused": true,
+        "Started": true,
+        "Priority": 3,
+        "Deadline": "2022-10-13T10:38:10",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": false,
+          "Elapsed": "00:00:00.7392641",
+          "ElapsedMilliseconds": 739,
+          "ElapsedTicks": 7392641
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      }
+    ]
+  },
+  "RunningTasks": {
+    "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.MyTask, TaskScheduler]], System.Collections",
+    "$values": [
+      {
+        "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+        "ProgressBarPercentage": 0.652593085106383,
+        "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+        "Id": "Task 2",
+        "Terminated": false,
+        "Paused": false,
+        "Started": true,
+        "Priority": 1,
+        "Deadline": "2022-10-12T10:38:33",
+        "Resources": {
+          "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+          "$values": [
+            {
+              "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+              "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\katrina-wright-yMg_SMqfoRU-unsplash.jpg",
+              "_resource": null,
+              "Taken": true
+            }
+          ]
+        },
+        "ResourcesProcessed": {
+          "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+          "$values": [
+            false
+          ]
+        },
+        "NumberOfCores": 6,
+        "MaxExecutionTime": 100000,
+        "Stopwatch": {
+          "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+          "IsRunning": true,
+          "Elapsed": "00:02:08.7057656",
+          "ElapsedMilliseconds": 128705,
+          "ElapsedTicks": 1287057669
+        },
+        "DateTimeFinished": "0001-01-01T00:00:00"
+      }
+    ]
+  },
+  "Resources": {
+    "$type": "System.Collections.Generic.HashSet`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+        "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\airplane.jpg",
+        "_resource": null,
+        "Task": {
+          "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+          "ProgressBarPercentage": 0.16129032258064516,
+          "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+          "Id": "Task 1",
+          "Terminated": false,
+          "Paused": true,
+          "Started": true,
+          "Priority": 3,
+          "Deadline": "2022-10-13T10:38:10",
+          "Resources": {
+            "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+            "$values": []
+          },
+          "ResourcesProcessed": {
+            "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+            "$values": [
+              false
+            ]
+          },
+          "NumberOfCores": 6,
+          "MaxExecutionTime": 100000,
+          "Stopwatch": {
+            "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+            "IsRunning": false,
+            "Elapsed": "00:00:00.7392641",
+            "ElapsedMilliseconds": 739,
+            "ElapsedTicks": 7392641
+          },
+          "DateTimeFinished": "0001-01-01T00:00:00"
+        },
+        "Taken": true
+      },
+      {
+        "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+        "Path": "C:\\Users\\Administrator\\Pictures\\unsplash\\katrina-wright-yMg_SMqfoRU-unsplash.jpg",
+        "_resource": null,
+        "Task": {
+          "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+          "ProgressBarPercentage": 0.652593085106383,
+          "OutputFolder": "C:\\Users\\Administrator\\Desktop",
+          "Id": "Task 2",
+          "Terminated": false,
+          "Paused": false,
+          "Started": true,
+          "Priority": 1,
+          "Deadline": "2022-10-12T10:38:33",
+          "Resources": {
+            "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+            "$values": []
+          },
+          "ResourcesProcessed": {
+            "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+            "$values": [
+              false
+            ]
+          },
+          "NumberOfCores": 6,
+          "MaxExecutionTime": 100000,
+          "Stopwatch": {
+            "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+            "IsRunning": true,
+            "Elapsed": "00:02:08.7058281",
+            "ElapsedMilliseconds": 128705,
+            "ElapsedTicks": 1287058291
+          },
+          "DateTimeFinished": "0001-01-01T00:00:00"
+        },
+        "Taken": true
+      }
+    ]
+  },
+  "NumberOfCores": 6,
+  "MaxNumberOfTasks": 1,
+  "Started": false,
+  "PriorityScheduling": true,
+  "PreemptiveScheduling": true
+}

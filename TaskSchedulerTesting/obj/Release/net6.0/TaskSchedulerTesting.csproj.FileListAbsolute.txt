@@ -1,0 +1,24 @@
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\bin\Release\net6.0\TaskSchedulerTesting.exe
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\bin\Release\net6.0\TaskSchedulerTesting.deps.json
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\bin\Release\net6.0\TaskSchedulerTesting.runtimeconfig.json
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\bin\Release\net6.0\TaskSchedulerTesting.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\bin\Release\net6.0\TaskSchedulerTesting.pdb
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\bin\Release\net6.0\1 TaskScheduler.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\bin\Release\net6.0\1 TaskScheduler.pdb
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\obj\Release\net6.0\TaskSchedulerTesting.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\obj\Release\net6.0\TaskSchedulerTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\obj\Release\net6.0\TaskSchedulerTesting.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\obj\Release\net6.0\TaskSchedulerTesting.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\obj\Release\net6.0\TaskSchedulerTesting.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\obj\Release\net6.0\TaskSchedulerTesting.csproj.CopyComplete
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\obj\Release\net6.0\TaskSchedulerTesting.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\obj\Release\net6.0\refint\TaskSchedulerTesting.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\obj\Release\net6.0\TaskSchedulerTesting.pdb
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\obj\Release\net6.0\TaskSchedulerTesting.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\TaskSchedulerTesting\obj\Release\net6.0\ref\TaskSchedulerTesting.dll

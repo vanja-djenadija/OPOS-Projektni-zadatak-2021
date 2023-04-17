@@ -1,0 +1,21 @@
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\bin\Debug\net5.0\4 DokanFileSystem.exe
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\bin\Debug\net5.0\4 DokanFileSystem.deps.json
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\bin\Debug\net5.0\4 DokanFileSystem.runtimeconfig.json
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\bin\Debug\net5.0\4 DokanFileSystem.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\bin\Debug\net5.0\4 DokanFileSystem.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\bin\Debug\net5.0\ref\4 DokanFileSystem.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\bin\Debug\net5.0\4 DokanFileSystem.pdb
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\bin\Debug\net5.0\DokanNet.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\bin\Debug\net5.0\de\DokanNet.resources.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\bin\Debug\net5.0\fr\DokanNet.resources.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\bin\Debug\net5.0\sv\DokanNet.resources.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\obj\Debug\net5.0\4 DokanFileSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\obj\Debug\net5.0\4 DokanFileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\obj\Debug\net5.0\4 DokanFileSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\obj\Debug\net5.0\4 DokanFileSystem.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\obj\Debug\net5.0\4 DokanFileSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\obj\Debug\net5.0\4 DokanFileSystem.csproj.CopyComplete
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\obj\Debug\net5.0\4 DokanFileSystem.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\obj\Debug\net5.0\ref\4 DokanFileSystem.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\obj\Debug\net5.0\4 DokanFileSystem.pdb
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\DokanFileSystem\obj\Debug\net5.0\4 DokanFileSystem.genruntimeconfig.cache

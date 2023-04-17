@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZG+wqSHs6DJKnfPqribETPenHDh/rxQSgkTW2N4b1cIdKskU4iwO+ktpqT+Lr4/XG8sj8uxHr8BM9HCX3QhfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\OPOS Projektni zadatak 2021\\TaskSchedulerTesting\\TaskSchedulerTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

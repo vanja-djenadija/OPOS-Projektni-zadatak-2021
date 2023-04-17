@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d66f881c-1150-40eb-89f3-a9f7c9e1d094": {
+      "ProjectGuid": "d66f881c-1150-40eb-89f3-a9f7c9e1d094",
+      "DisplayName": "4 DokanFileSystem",
+      "ColorIndex": 0
+    },
+    "3b5da860-82ba-4075-ae58-b0ef25705e8c": {
+      "ProjectGuid": "3b5da860-82ba-4075-ae58-b0ef25705e8c",
+      "DisplayName": "1 TaskScheduler",
+      "ColorIndex": 1
+    },
+    "40e1f999-e934-4a96-92f6-84b057c463cd": {
+      "ProjectGuid": "40e1f999-e934-4a96-92f6-84b057c463cd",
+      "DisplayName": "2 GraphicalUserInterfaceApp",
+      "ColorIndex": 2
+    },
+    "338b14ca-84a7-4f13-a324-ffee1543a4c7": {
+      "ProjectGuid": "338b14ca-84a7-4f13-a324-ffee1543a4c7",
+      "DisplayName": "3 MultimediaDataProcessing",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "89b53612-778d-4ff5-98f6-2cc3b2f9b491": {
+      "ProjectGuid": "89b53612-778d-4ff5-98f6-2cc3b2f9b491",
+      "DisplayName": "TaskSchedulerTest",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

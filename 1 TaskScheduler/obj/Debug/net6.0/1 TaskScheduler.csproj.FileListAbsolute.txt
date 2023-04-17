@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\1 TaskScheduler\bin\Debug\net6.0\1 TaskScheduler.deps.json
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\1 TaskScheduler\bin\Debug\net6.0\1 TaskScheduler.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\1 TaskScheduler\bin\Debug\net6.0\1 TaskScheduler.pdb
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\1 TaskScheduler\obj\Debug\net6.0\1 TaskScheduler.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\1 TaskScheduler\obj\Debug\net6.0\1 TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\1 TaskScheduler\obj\Debug\net6.0\1 TaskScheduler.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\1 TaskScheduler\obj\Debug\net6.0\1 TaskScheduler.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\1 TaskScheduler\obj\Debug\net6.0\1 TaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\1 TaskScheduler\obj\Debug\net6.0\1 TaskScheduler.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\1 TaskScheduler\obj\Debug\net6.0\refint\1 TaskScheduler.dll
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\1 TaskScheduler\obj\Debug\net6.0\1 TaskScheduler.pdb
+C:\Users\Administrator\source\repos\OPOS Projektni zadatak 2021\1 TaskScheduler\obj\Debug\net6.0\ref\1 TaskScheduler.dll

@@ -1,0 +1,39 @@
+{
+  "$type": "MyTaskScheduler.ImageSharpeningTask, TaskScheduler",
+  "ProgressBarPercentage": 0.0,
+  "OutputFolder": ".",
+  "Id": "Task 1",
+  "Terminated": false,
+  "Paused": false,
+  "Started": false,
+  "Priority": 3,
+  "Deadline": "2023-07-11T19:19:59",
+  "Resources": {
+    "$type": "System.Collections.Generic.LinkedList`1[[MyTaskScheduler.Resource, TaskScheduler]], System.Collections",
+    "$values": [
+      {
+        "$type": "MyTaskScheduler.FileResource, TaskScheduler",
+        "Path": ".\\airplane.jpg",
+        "_resource": null,
+        "Task": null,
+        "Taken": false
+      }
+    ]
+  },
+  "ResourcesProcessed": {
+    "$type": "System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+    "$values": [
+      false
+    ]
+  },
+  "NumberOfCores": 6,
+  "MaxExecutionTime": 1000000000000,
+  "Stopwatch": {
+    "$type": "System.Diagnostics.Stopwatch, System.Private.CoreLib",
+    "IsRunning": false,
+    "Elapsed": "00:00:00",
+    "ElapsedMilliseconds": 0,
+    "ElapsedTicks": 0
+  },
+  "DateTimeFinished": "0001-01-01T00:00:00"
+}
